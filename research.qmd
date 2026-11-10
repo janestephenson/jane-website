@@ -1,34 +1,57 @@
 ---
-# This is the research page of the website
-title: Research 
-listing: # this determines different lists with respective options. These are accessed in the below with the :::{#id}::: syntax.
-  - id: wp 
-    contents: "wp/*.qmd" # from which folder to take the contents. Here, take all .qmd files from the wp folder. 
-    sort: "date desc" # how to sort the contents.
-    template: ejs/wp.ejs  # how to display contents. Here, use the customized wp.ejs in the ejs folder.
-  - id: pub
-    sort: "date desc"
-    contents: "pub/*.qmd"
-    template: ejs/pub.ejs
-  - id: wip
-    sort: "date desc"
-    contents: "wip/*.qmd"
-    template: ejs/wp.ejs
-
+title: Research
+toc-depth: 3
 ---
 
-### Working Papers 
+Below you can find more information on my past and ongoing research projects. 
 
-:::{#wp}
-:::
+## Age Differences in Socioemotional Processes
 
-### Publications 
+<details class="project">
+<summary>Social sharing of emotions and daily affective experiences: Differences by age and gender</summary>
 
-:::{#pub}
-:::
+**Overview:** 
 
-### Work in Progress 
+This study examined how often people share their emotions with others in daily life, with whom they share, and how they feel afterward, with a focus on differences by age and gender. In an experience sampling study, 180 adults (ages 18 to 93) reported five times a day for one week whether and with whom they had shared their emotions, how they felt after sharing, and the positive and negative emotions they were currently experiencing. Sharing emotions was fairly common and was associated with greater negative affect right after sharing. However, people who shared more often reported more positive affect on average than those who shared less. Frequency of sharing did not differ by age, but older adults shared more often with close partners than with peripheral ones. Sharing with family members was associated with feeling better and greater positive affect among older but not younger adults, whereas a greater tendency to share with romantic partners was associated with less negative affect among younger but not older adults. Women shared emotions more often than men; men shared primarily with spouses, while women shared more with other family members. Because the data are observational, these findings reflect associations rather than cause and effect. Overall, they suggest that daily emotion sharing is linked to a more positive emotional experience, and that the social partners people share with relate differently to well-being at different ages.
 
-:::{#wip}
-:::
+*This paper is currently under review for publication*
+
+</details>
+
+<details class="project">
+<summary>Negative relationship quality and daily encounters in the parent-child tie and their implications for daily mood across the lifespan</summary>
+
+**Overview:**
+
+This project examined how the quality of parents’ relationships with their children is linked to everyday interactions and, in turn, parents’ emotional well-being across the lifespan. A sample of 129 parents (ages 33-91) completed brief mood and interaction check-ins every three hours for four days. We found that relationship quality did not predict whether parents and children had contact, but it did predict the tone of that contact: parents with more strained relationships experienced more unpleasant and fewer pleasant encounters. Pleasant encounters were associated with more positive mood regardless of relationship quality, whereas unpleasant encounters were associated with a more negative mood, particularly when the relationship was already strained. These patterns varied by age. Unpleasant encounters were less common with emerging adult children than with young children, and older parents’ moods moods were not as strongly associated with unpleasant encounters, though the likelihood of experiencing unpleasant encounters was more closely tied to relationship quality for older parents than younger parents. 
+
+*Read the full paper [here](https://onlinelibrary.wiley.com/doi/10.1111/famp.13094).*
+
+</details>
+
+
+## Grandparent-Grandchild Relationships
+
+<details class="project">
+<summary>Grandparents as alloparents: Unique associations with adolescent well-being</summary>
+
+**Overview:**
+
+This study examined whether adolescents who have a supportive non-parental adult, known as an alloparent (such as a grandparent, aunt or uncle, or family friend), differ in well-being depending on who that adult is, and whether these patterns vary with the quality of the adolescent’s relationship with their parents. Using survey data from 3,272 U.S. adolescents in the Future of Families and Child Wellbeing Study, we compared mental health, psychosocial well-being, and social skills across types of alloparent relationships. Adolescents with any alloparent reported greater psychosocial well-being and stronger social skills than those without one. However, only adolescents whose alloparent was a grandparent reported fewer symptoms of mental distress, and for these adolescents, the links with well-being differed depending on the quality of their parental relationships. Results suggest that grandparents may be an underrecognized resource for adolescent mental health, and that strengthening grandparent-adolescent relationships could be a promising direction for families, schools, and practitioners interested in supporting adolescent well-being.
+
+*This paper is currently under review for publication.*
+
+</details>
+
+
+<details class="project">
+<summary>Grandparent support during childhood is associated with emotional wellbeing in emerging adulthood</summary>
+
+**Overview:**
+
+This study examined whether support from grandparents is linked to grandchildrn's emotional wellbeing in emerging adulthood. Because social and emotional skills are learned in early childhood, and because grandparents are well-positioned to contribute to that learning, we investigated the role of grandparental support both in childhood and in young adulthood. We surveyed 514 emerging adults (ages 18-29) about their emotional wellbeing and family relationships, including the support they received from grandparents in childhood and currently. We found that grandparental support in early childhood was associated with greater emotional well-being in emerging adulthood. This link held even when grandparents had died before their grandchildren reached adulthood, and it did not depend on the quality of the grandchild’s relationship with their parents or primary caregivers. Current grandparental support was also tied to emotional wellbeing, and the associations were complimented by support received in childhood. These findings suggest that support during the years when children are learning to regulate emotions and navigate social situations may be especially protective, and they underscore the value of taking a multigenerational, life course perspective on how family relationships shape well-being.
+
+*Read the full paper [here](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1680383/full).*
+
+</details>
 

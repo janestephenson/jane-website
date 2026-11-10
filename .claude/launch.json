@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "quarto-preview",
+      "runtimeExecutable": "C:/Users/JaneS/AppData/Local/Programs/RStudio/resources/app/bin/quarto/bin/quarto.exe",
+      "runtimeArgs": ["preview", "--port", "4321", "--no-browser", "--no-render"],
+      "port": 4321
+    }
+  ]
+}

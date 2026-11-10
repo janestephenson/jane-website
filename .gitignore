@@ -5,3 +5,4 @@
 *README_files
 README.html
 **/*.quarto_ipynb
+.Rproj.user

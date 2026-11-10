@@ -4,7 +4,7 @@ project:
     - files/cv.pdf
 
 website:
-  title: "John Doe Title" # website title, this is what's displayed on the top
+  title: "Jane Stephenson" # website title, this is what's displayed on the top
   navbar: # Options for website navigation (including bar). For alternatives see https://quarto.org/docs/websites/website-navigation.html
     left: # links displayed in navigation bar
       - href: index.qmd
@@ -12,9 +12,11 @@ website:
       - href: research.qmd
         text: Research 
       - href: teaching.qmd
-        text: Teaching
+        text: Experience
       - href: code.qmd
-        text: Code
+        text: Resources
+      - href: more_science.qmd
+        text: More Science!
     search: false
 
 
@@ -24,9 +26,9 @@ format:
     page-layout: full
     fontsize: 100%
     linestretch: 1.5
-    theme: litera
+    theme: [minty, custom.scss] # minty fonts + custom color palette (see custom.scss)
     css: styles.css # custom file to adjust some css options 
-    toc: false
+    toc: true
 
 
 

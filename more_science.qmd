@@ -1,0 +1,22 @@
+---
+title: More Science!
+toc-depth: 3
+---
+
+Read on to find more information about cool research in the field of psychology broadly as well as on specific topics related to emotional and social development across the lifecourse and intergenerational relationships. 
+
+## [Stanford Psychology Podcast](https://www.stanfordpsychologypodcast.com/) 
+::: {.exp-card .accent-1}
+
+The Stanford Psychology Podcast invites leading psychologists to talk about their work. Conversations will bring you new findings from psychological science and how they can be applied to everyday life.
+
+Check out [my interview with Dr. David Almeida](https://www.stanfordpsychologypodcast.com/episodes/episode/807c0f7f/158-david-almeida-can-stress-be-good-for-you) in which we discuss the ways people experience and react to stress in their daily lives, who is most likely to experience and be reactive to stress, ways to manage stress, and even some unexpected upside of experiencing stress in daily life.
+
+:::
+
+## [Intergenerational Friendships: The Hidden Gems](https://datastories.aarp.org/social-leisure/relationships/intergenerational-friendships/) 
+::: {.exp-card .accent-1}
+
+This article from AARP documents the unique ways that friendships across generations enrich our lives.
+
+:::

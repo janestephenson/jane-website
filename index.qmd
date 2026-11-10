@@ -1,25 +1,31 @@
 ---
-title: "John Doe" # This is the Name that appears on the landing page
+title: "Jane Stephenson" 
 image: images/avatar.jpg # This is the image that appears on the landing page
 about:   
-    template: solana # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+    template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
     image-width: 10em
     links: # Here we can add links that appear as buttons on the landing page
-        - icon: CV
+        - icon: CV # find other icons at https://icons.getbootstrap.com/icons/category/brand/
           href: files/cv.pdf
           text: CV
-
-        # - icon: github
-        #   href: https://github.com/USERNAME
-        #   text: Github
-
-# Below, we can add any custom text using Markdown syntax. 
+        - href: https://scholar.google.com/citations?user=xtpnvVEAAAAJ&hl=en
+          text: Google Scholar
+        - icon: linkedin
+          href: https://www.linkedin.com/in/jane-stephenson-5705381b6/
+        - icon: github
+          href: https://github.com/janestephenson
 ---
 
-I am John Doe and I do interesting research. 
+Hello!
 
-### Research Interests
-Interest 1, Interest 2, Interest 3
+My name is Jane Stephenson and I am a doctoral candidate in Psychology at Stanford University.
+I work with Dr. Laura Carstensen in the [Lifespan Development Laboratory](https://lifespan.stanford.edu/).
 
-### Office
-Room, Street, City, Country
+I study emotional and social changes across the life course, with a focus on how people of different ages form and maintain relationships with each other as well as how such relationships support well-being. In particular, my work has examined age differences in the links between social interactions and emotional experience in daily life as well as how grandparents support their grandchildren's well-being. 
+
+Check out my [research page](/research.qmd) for more details on past and current projects.
+
+
+
+Email: [janestep\@stanford.edu](mailto:janestep@stanford.edu)
+

@@ -1,10 +1,50 @@
 ---
-title: Code
-listing: # For details on these lists, see the notes in research.qmd
-  contents: "code/*.qmd"
-  sort: "date desc"
-  template: ejs/code.ejs
+title: Stats Resources
+toc-depth: 3
 ---
 
-:::{#code}
+Here you can find some of my favorite resources for statistics and coding in R. All credit for the work conatined in these materials goes to the original authors.
+
+# R and R Studio
+
+## Online Textbooks {.exp-heading .accent-1}
+
+::: {.exp-stack}
+
+::: {.exp-card .accent-1}
+### [R for Data Science](https://r4ds.hadley.nz/)
+
+I used this book when I was learning R for the first time. It is a great resource for learning how to import, tidy, and visualize data.
+
+:::
+
+::: {.exp-card .accent-1}
+### [What They Forgot to Teach You About R](https://rstats.wtf/)
+
+Build good data hygiene habits by following the guidelines in this book.
+
+:::
+:::
+
+## My Favorite Packages {.exp-heading .accent-1}
+
+::: {.exp-stack}
+
+::: {.exp-card .accent-2}
+### [modelsummary](https://modelsummary.com/vignettes/get_started.html)
+
+You can create publication ready, APA-style tables with this package in just a few lines of code.
+
+:::
+:::
+
+# Statistics
+
+::: {.exp-stack}
+
+::: {.exp-card .accent-3}
+### [UCLA’s Office of Advanced Research Computing](https://stats.oarc.ucla.edu/other/mult-pkg/seminars/#R)
+
+Offers a wealth of free resources that explain both the statistical concepts and code for a variety of methods. 
+:::
 :::

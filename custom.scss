@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+
+// Bootstrap theme colors (these drive the navbar, buttons, badges, etc.)
+$primary:   #5A6E5A;
+$secondary: #D6B69E;
+$info:      #849894;
+$warning:   #BE641E;
+$success:   #626542;
+
+// navbar
+$navbar-bg: $primary;
+$navbar-fg: #ffffff;
+$navbar-hl: $secondary;   // hover / active page
+
+/*-- scss:rules --*/

@@ -1,15 +1,82 @@
 ---
-title: Teaching
-
-# Use markdown below to add content. 
+title: Experience
+toc-depth: 3
 ---
 
-### Current
+## Education {.exp-heading .accent-1}
 
-- Course 1 
-- Course 2 
+::: {.exp-stack}
 
-### Past 
+::: {.exp-card .accent-1}
+### Stanford University [2024 – Present]{.exp-date}
 
-- Course 3 
-- Course 4 
+PhD in Psychology
+:::
+
+::: {.exp-card .accent-1}
+### University of Michigan [2020 – 2024]{.exp-date}
+
+B.S. in Biopsychology, Cognition & Neuroscience
+:::
+
+:::
+
+## Research {.exp-heading .accent-4}
+
+::: {.exp-timeline .accent-4}
+
+::: {.exp-item}
+### [Lifespan Development Lab](https://lifespan.stanford.edu/) [2024 – Present]{.exp-date}
+[Graduate Student Researcher]{.exp-role} · Stanford University
+:::
+
+::: {.exp-item}
+### [Adolescent Health Risk Behavior Study](https://lsa.umich.edu/psych/people/faculty/keatingd.html) [2022 – 2024]{.exp-date}
+[Undergraduate Research Assistant]{.exp-role} · University of Michigan
+:::
+
+::: {.exp-item}
+### [Aging & Biopsychosocial Innovations](https://abi.isr.umich.edu/) [2021 – 2024]{.exp-date}
+[Undergraduate Research Assistant]{.exp-role} · University of Michigan
+:::
+
+:::
+
+## Teaching {.exp-heading .accent-2}
+
+::: {.exp-stack}
+
+::: {.exp-card .accent-2}
+[Psych 10]{.exp-badge}
+
+### Introduction to Statistical Methods [Fall 2026]{.exp-date}
+
+[Teaching Assistant]{.exp-role} · Stanford University
+
+[<i class="bi bi-mic-fill"></i> Invited Guest Lecture: *Tidy your Data in R*]{.exp-note}
+:::
+
+::: {.exp-card .accent-2}
+[Psych 70]{.exp-badge}
+
+### Self and Society: Introduction to Social Psychology [Spring 2026]{.exp-date}
+
+[Teaching Assistant]{.exp-role} · Stanford University
+:::
+
+::: {.exp-card .accent-2}
+[Psych 102]{.exp-badge}
+
+### Longevity [Winter 2026]{.exp-date}
+
+[Teaching Assistant]{.exp-role} · Stanford University
+:::
+
+:::
+
+## Service and Leadership {.exp-heading .accent-3}
+
+::: {.exp-callout .accent-3}
+### Statistics Consultant
+Department of Psychology, Stanford University
+:::
