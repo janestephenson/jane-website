@@ -25,7 +25,7 @@
     "href": "teaching.html#teaching",
     "title": "Experience",
     "section": "Teaching",
-    "text": "Teaching\n\n\nPsych 10\n\nIntroduction to Statistical Methods Fall 2026\nTeaching Assistant · Stanford University\n Invited Guest Lecture: Tidy your Data in R\n\n\n\nPsych 70\n\nSelf and Society: Introduction to Social Psychology Spring 2026\nTeaching Assistant · Stanford University\n\n\n\nPsych 102\n\nLongevity Winter 2026\nTeaching Assistant · Stanford University"
+    "text": "Teaching\n\n\nIntroduction to Statistical Methods (Psych 10) Fall 2026\nTeaching Assistant · Stanford University\n Invited Guest Lecture: Tidy your Data in R\n\n\nSelf and Society: Introduction to Social Psychology (Psych 70) Spring 2026\nTeaching Assistant · Stanford University\n\n\nLongevity (Psych 102) Winter 2026\nTeaching Assistant · Stanford University"
   },
   {
     "objectID": "teaching.html#service-and-leadership",
@@ -58,30 +58,30 @@
   {
     "objectID": "code.html",
     "href": "code.html",
-    "title": "Stats Resources",
+    "title": "Stats & Coding Resources",
     "section": "",
-    "text": "Here you can find some of my favorite resources for statistics and coding in R. All credit for the work conatined in these materials goes to the original authors."
+    "text": "Here you can find some of my favorite resources for statistics and coding in R. All credit for the work contained in these materials goes to the original authors."
   },
   {
-    "objectID": "code.html#online-textbooks",
-    "href": "code.html#online-textbooks",
-    "title": "Stats Resources",
-    "section": "Online Textbooks",
-    "text": "Online Textbooks\n\n\nR for Data Science\nI used this book when I was learning R for the first time. It is a great resource for learning how to import, tidy, and visualize data.\n\n\nWhat They Forgot to Teach You About R\nBuild good data hygiene habits by following the guidelines in this book."
+    "objectID": "code.html#r-and-r-studio",
+    "href": "code.html#r-and-r-studio",
+    "title": "Stats & Coding Resources",
+    "section": "R and R Studio",
+    "text": "R and R Studio\n\nOnline Textbooks\n\n\n\nR for Data Science\nI used this book when I was learning R for the first time. It is a great resource for learning how to import, tidy, and visualize data.\n\n\nWhat They Forgot to Teach You About R\nBuild good data hygiene habits by following the guidelines in this book.\n\n\nggplot2: Elegant Graphics for Data Analysis\nA fantastic overview about the “Grammar of Graphics” that ggplot uses. This book is a great foundational guide for building figures in R.\n\n\nR Graphics Cookbook\nFind more advanced and specific recipes to up your visualization game!\n\n\n\nMy Favorite Packages\n\n\n\nmodelsummary\nYou can create publication ready, APA-style tables with this package in just a few lines of code.\n\n\neasystats\neasystats is a collection of packages that help interpret model outputs."
   },
   {
-    "objectID": "code.html#my-favorite-packages",
-    "href": "code.html#my-favorite-packages",
-    "title": "Stats Resources",
-    "section": "My Favorite Packages",
-    "text": "My Favorite Packages\n\n\nmodelsummary\nYou can create publication ready, APA-style tables with this package in just a few lines of code."
+    "objectID": "code.html#statistics",
+    "href": "code.html#statistics",
+    "title": "Stats & Coding Resources",
+    "section": "Statistics",
+    "text": "Statistics\n\n\nUCLA’s Office of Advanced Research Computing\nOffers a wealth of free resources that explain both the statistical concepts and code for a variety of methods."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jane Stephenson",
     "section": "",
-    "text": "Hello!\nMy name is Jane Stephenson and I am a doctoral candidate in Psychology at Stanford University. I work with Dr. Laura Carstensen in the Lifespan Development Laboratory.\nI study emotional and social changes across the life course, with a focus on how people of different ages form and maintain relationships with each other as well as how such relationships support well-being. In particular, my work has examined age differences in the links between social interactions and emotional experience in daily life as well as how grandparents support their grandchildren’s well-being.\nCheck out my research page for more details on past and current projects.\nEmail: janestep@stanford.edu"
+    "text": "Hello!\nMy name is Jane Stephenson and I am a doctoral candidate in Psychology at Stanford University. I work with Dr. Laura Carstensen in the Lifespan Development Laboratory.\nI study emotional and social changes across the life course, with a focus on how people of different ages form and maintain relationships with each other as well as how such relationships support well-being. In particular, my work has examined age differences in the links between social interactions and emotional experience in daily life as well as how grandparents support their grandchildren’s well-being.\nCheck out my Research page for more details on my past and current projects.\nIf academic articles aren’t for you, I’ve also compiled more information on the world of psychological science for a broader audience on my More Science! page.\nOn my Resources page, you can find some of my favorite resources to help with statistics and coding in R.\nEmail: janestep@stanford.edu"
   },
   {
     "objectID": "research.html",

@@ -159,7 +159,9 @@ ul.task-list li input[type="checkbox"] {
 <p>Hello!</p>
 <p>My name is Jane Stephenson and I am a doctoral candidate in Psychology at Stanford University. I work with Dr.&nbsp;Laura Carstensen in the <a href="https://lifespan.stanford.edu/">Lifespan Development Laboratory</a>.</p>
 <p>I study emotional and social changes across the life course, with a focus on how people of different ages form and maintain relationships with each other as well as how such relationships support well-being. In particular, my work has examined age differences in the links between social interactions and emotional experience in daily life as well as how grandparents support their grandchildren’s well-being.</p>
-<p>Check out my <a href="./research.html">research page</a> for more details on past and current projects.</p>
+<p>Check out my <a href="./research.html">Research</a> page for more details on my past and current projects.</p>
+<p>If academic articles aren’t for you, I’ve also compiled more information on the world of psychological science for a broader audience on my <a href="./more-science.qmd">More Science!</a> page.</p>
+<p>On my <a href="./code.html">Resources</a> page, you can find some of my favorite resources to help with statistics and coding in R.</p>
 <p>Email: <a href="mailto:janestep@stanford.edu">janestep@stanford.edu</a></p>
 
 
@@ -232,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/janestephenson\.github\.io\/jane-website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
