@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Experience",
+    "section": "",
+    "text": "PhD in Psychology\n\n\n\nB.S. in Biopsychology, Cognition & Neuroscience"
+  },
+  {
+    "objectID": "teaching.html#education",
+    "href": "teaching.html#education",
+    "title": "Experience",
+    "section": "",
+    "text": "PhD in Psychology\n\n\n\nB.S. in Biopsychology, Cognition & Neuroscience"
+  },
+  {
+    "objectID": "teaching.html#research",
+    "href": "teaching.html#research",
+    "title": "Experience",
+    "section": "Research",
+    "text": "Research\n\n\nLifespan Development Lab 2024 – Present\nGraduate Student Researcher · Stanford University\n\n\nAdolescent Health Risk Behavior Study 2022 – 2024\nUndergraduate Research Assistant · University of Michigan\n\n\nAging & Biopsychosocial Innovations 2021 – 2024\nUndergraduate Research Assistant · University of Michigan"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Experience",
+    "section": "Teaching",
+    "text": "Teaching\n\n\nPsych 10\n\nIntroduction to Statistical Methods Fall 2026\nTeaching Assistant · Stanford University\n Invited Guest Lecture: Tidy your Data in R\n\n\n\nPsych 70\n\nSelf and Society: Introduction to Social Psychology Spring 2026\nTeaching Assistant · Stanford University\n\n\n\nPsych 102\n\nLongevity Winter 2026\nTeaching Assistant · Stanford University"
+  },
+  {
+    "objectID": "teaching.html#service-and-leadership",
+    "href": "teaching.html#service-and-leadership",
+    "title": "Experience",
+    "section": "Service and Leadership",
+    "text": "Service and Leadership\n\nStatistics Consultant\nDepartment of Psychology, Stanford University"
+  },
+  {
+    "objectID": "more_science.html",
+    "href": "more_science.html",
+    "title": "More Science!",
+    "section": "",
+    "text": "Read on to find more information about cool research in the field of psychology broadly as well as on specific topics related to emotional and social development across the lifecourse and intergenerational relationships."
+  },
+  {
+    "objectID": "more_science.html#stanford-psychology-podcast",
+    "href": "more_science.html#stanford-psychology-podcast",
+    "title": "More Science!",
+    "section": "Stanford Psychology Podcast",
+    "text": "Stanford Psychology Podcast\n\nThe Stanford Psychology Podcast invites leading psychologists to talk about their work. Conversations will bring you new findings from psychological science and how they can be applied to everyday life.\nCheck out my interview with Dr. David Almeida in which we discuss the ways people experience and react to stress in their daily lives, who is most likely to experience and be reactive to stress, ways to manage stress, and even some unexpected upside of experiencing stress in daily life."
+  },
+  {
+    "objectID": "more_science.html#intergenerational-friendships-the-hidden-gems",
+    "href": "more_science.html#intergenerational-friendships-the-hidden-gems",
+    "title": "More Science!",
+    "section": "Intergenerational Friendships: The Hidden Gems",
+    "text": "Intergenerational Friendships: The Hidden Gems\n\nThis article from AARP documents the unique ways that friendships across generations enrich our lives."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Stats Resources",
+    "section": "",
+    "text": "Here you can find some of my favorite resources for statistics and coding in R. All credit for the work conatined in these materials goes to the original authors."
+  },
+  {
+    "objectID": "code.html#online-textbooks",
+    "href": "code.html#online-textbooks",
+    "title": "Stats Resources",
+    "section": "Online Textbooks",
+    "text": "Online Textbooks\n\n\nR for Data Science\nI used this book when I was learning R for the first time. It is a great resource for learning how to import, tidy, and visualize data.\n\n\nWhat They Forgot to Teach You About R\nBuild good data hygiene habits by following the guidelines in this book."
+  },
+  {
+    "objectID": "code.html#my-favorite-packages",
+    "href": "code.html#my-favorite-packages",
+    "title": "Stats Resources",
+    "section": "My Favorite Packages",
+    "text": "My Favorite Packages\n\n\nmodelsummary\nYou can create publication ready, APA-style tables with this package in just a few lines of code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jane Stephenson",
+    "section": "",
+    "text": "Hello!\nMy name is Jane Stephenson and I am a doctoral candidate in Psychology at Stanford University. I work with Dr. Laura Carstensen in the Lifespan Development Laboratory.\nI study emotional and social changes across the life course, with a focus on how people of different ages form and maintain relationships with each other as well as how such relationships support well-being. In particular, my work has examined age differences in the links between social interactions and emotional experience in daily life as well as how grandparents support their grandchildren’s well-being.\nCheck out my research page for more details on past and current projects.\nEmail: janestep@stanford.edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Below you can find more information on my past and ongoing research projects."
+  },
+  {
+    "objectID": "research.html#age-differences-in-socioemotional-processes",
+    "href": "research.html#age-differences-in-socioemotional-processes",
+    "title": "Research",
+    "section": "Age Differences in Socioemotional Processes",
+    "text": "Age Differences in Socioemotional Processes\n\n\nSocial sharing of emotions and daily affective experiences: Differences by age and gender\n\nOverview:\nThis study examined how often people share their emotions with others in daily life, with whom they share, and how they feel afterward, with a focus on differences by age and gender. In an experience sampling study, 180 adults (ages 18 to 93) reported five times a day for one week whether and with whom they had shared their emotions, how they felt after sharing, and the positive and negative emotions they were currently experiencing. Sharing emotions was fairly common and was associated with greater negative affect right after sharing. However, people who shared more often reported more positive affect on average than those who shared less. Frequency of sharing did not differ by age, but older adults shared more often with close partners than with peripheral ones. Sharing with family members was associated with feeling better and greater positive affect among older but not younger adults, whereas a greater tendency to share with romantic partners was associated with less negative affect among younger but not older adults. Women shared emotions more often than men; men shared primarily with spouses, while women shared more with other family members. Because the data are observational, these findings reflect associations rather than cause and effect. Overall, they suggest that daily emotion sharing is linked to a more positive emotional experience, and that the social partners people share with relate differently to well-being at different ages.\nThis paper is currently under review for publication\n\n\n\nNegative relationship quality and daily encounters in the parent-child tie and their implications for daily mood across the lifespan\n\nOverview:\nThis project examined how the quality of parents’ relationships with their children is linked to everyday interactions and, in turn, parents’ emotional well-being across the lifespan. A sample of 129 parents (ages 33-91) completed brief mood and interaction check-ins every three hours for four days. We found that relationship quality did not predict whether parents and children had contact, but it did predict the tone of that contact: parents with more strained relationships experienced more unpleasant and fewer pleasant encounters. Pleasant encounters were associated with more positive mood regardless of relationship quality, whereas unpleasant encounters were associated with a more negative mood, particularly when the relationship was already strained. These patterns varied by age. Unpleasant encounters were less common with emerging adult children than with young children, and older parents’ moods moods were not as strongly associated with unpleasant encounters, though the likelihood of experiencing unpleasant encounters was more closely tied to relationship quality for older parents than younger parents.\nRead the full paper here."
+  },
+  {
+    "objectID": "research.html#grandparent-grandchild-relationships",
+    "href": "research.html#grandparent-grandchild-relationships",
+    "title": "Research",
+    "section": "Grandparent-Grandchild Relationships",
+    "text": "Grandparent-Grandchild Relationships\n\n\nGrandparents as alloparents: Unique associations with adolescent well-being\n\nOverview:\nThis study examined whether adolescents who have a supportive non-parental adult, known as an alloparent (such as a grandparent, aunt or uncle, or family friend), differ in well-being depending on who that adult is, and whether these patterns vary with the quality of the adolescent’s relationship with their parents. Using survey data from 3,272 U.S. adolescents in the Future of Families and Child Wellbeing Study, we compared mental health, psychosocial well-being, and social skills across types of alloparent relationships. Adolescents with any alloparent reported greater psychosocial well-being and stronger social skills than those without one. However, only adolescents whose alloparent was a grandparent reported fewer symptoms of mental distress, and for these adolescents, the links with well-being differed depending on the quality of their parental relationships. Results suggest that grandparents may be an underrecognized resource for adolescent mental health, and that strengthening grandparent-adolescent relationships could be a promising direction for families, schools, and practitioners interested in supporting adolescent well-being.\nThis paper is currently under review for publication.\n\n\n\nGrandparent support during childhood is associated with emotional wellbeing in emerging adulthood\n\nOverview:\nThis study examined whether support from grandparents is linked to grandchildrn’s emotional wellbeing in emerging adulthood. Because social and emotional skills are learned in early childhood, and because grandparents are well-positioned to contribute to that learning, we investigated the role of grandparental support both in childhood and in young adulthood. We surveyed 514 emerging adults (ages 18-29) about their emotional wellbeing and family relationships, including the support they received from grandparents in childhood and currently. We found that grandparental support in early childhood was associated with greater emotional well-being in emerging adulthood. This link held even when grandparents had died before their grandchildren reached adulthood, and it did not depend on the quality of the grandchild’s relationship with their parents or primary caregivers. Current grandparental support was also tied to emotional wellbeing, and the associations were complimented by support received in childhood. These findings suggest that support during the years when children are learning to regulate emotions and navigate social situations may be especially protective, and they underscore the value of taking a multigenerational, life course perspective on how family relationships shape well-being.\nRead the full paper here."
+  }
+]

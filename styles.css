@@ -1,0 +1,241 @@
+/* links: same font and color as the surrounding text, with a thin underline */
+a {
+    color: inherit;
+    font-family: inherit;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+
+/* no underline for links styled as buttons or wrapping images */
+a.btn,
+a.image-link,
+#title-block-header a.btn {
+    text-decoration: none;
+}
+
+
+/* styling for dropdowns */
+details.project {
+  border: 1px solid var(--bs-border-color);
+  border-left: 4px solid var(--bs-primary);
+  border-radius: 6px;
+  padding: 0.5em 1em;
+  margin-bottom: 0.75em;
+}
+
+details.project > summary {
+  list-style: none;
+  cursor: pointer;
+  font-size: 1.15em;
+  font-weight: 600;
+  padding: 0.4em 0;
+}
+details.project > summary::-webkit-details-marker { display: none; }
+
+details.project > summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.6em;
+  transition: transform 0.2s ease;
+}
+details.project[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+details.project[open] > summary {
+  border-bottom: 1px solid var(--bs-border-color);
+  margin-bottom: 0.75em;
+}
+
+/* add an image_list class which then can be removed on mobile */
+.image_list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+}
+
+/* remove image in list on mobile */
+@media screen and (max-width: 600px) {
+    .image_list {
+      visibility: hidden;
+      display: none;
+    }
+  }
+
+/* adjust font size for smaller screen */
+/* @media all and (max-width: 600px) {
+    body {
+      font-size: 70%;
+    }
+    p {
+        font-size: 70%;
+    }
+    abstract-title {
+        font-size: 70%;
+    }
+    .btn.scale {
+            font-size: 70%;  
+            border-radius: 6px;
+            padding: 3px 3px
+        }
+  } */
+
+/* ---------- Experience page (teaching.qmd) ---------- */
+/* accent colors come from the theme colors set in custom.scss */
+.accent-1 { --accent: var(--bs-primary);   --accent-rgb: var(--bs-primary-rgb); }
+.accent-2 { --accent: var(--bs-secondary); --accent-rgb: var(--bs-secondary-rgb); --accent-text: var(--bs-emphasis-color); } /* light color, so dark label text */
+.accent-3 { --accent: var(--bs-info);      --accent-rgb: var(--bs-info-rgb); }
+.accent-4 { --accent: var(--bs-warning);   --accent-rgb: var(--bs-warning-rgb); }
+.accent-5 { --accent: var(--bs-success);   --accent-rgb: var(--bs-success-rgb); }
+
+/* section headings: no underline */
+h2.exp-heading {
+  border-bottom: none;
+  margin-top: 2.2em;
+}
+
+/* full-width cards stacked vertically (Teaching) */
+.exp-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.exp-stack .exp-card {
+  border-top: none;
+  border-left: 5px solid var(--accent);
+}
+
+/* responsive card grid */
+.exp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+.exp-card {
+  background: rgba(var(--accent-rgb), 0.08);
+  border-top: 4px solid var(--accent);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.exp-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(var(--accent-rgb), 0.3);
+}
+.exp-card h3,
+.exp-item h3,
+.exp-callout h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0.4rem 0 0.3rem;
+}
+.exp-card p,
+.exp-item p,
+.exp-callout p {
+  margin-bottom: 0.25rem;
+}
+
+/* pill-shaped label (degree, course number) */
+.exp-badge {
+  display: inline-block;
+  background: var(--accent);
+  color: var(--accent-text, #fff);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 0.15em 0.75em;
+  border-radius: 999px;
+}
+
+.exp-role {
+  font-style: italic;
+}
+
+.exp-note {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  background: rgba(var(--accent-rgb), 0.2);
+  border-radius: 6px;
+  padding: 0.2em 0.6em;
+}
+
+/* vertical timeline */
+.exp-timeline {
+  border-left: 3px solid rgba(var(--accent-rgb), 0.5);
+  margin: 1rem 0 1.5rem 0.5rem;
+  padding-left: 1.5rem;
+}
+.exp-item {
+  position: relative;
+  padding-bottom: 1.1rem;
+}
+.exp-item::before {
+  content: "";
+  position: absolute;
+  left: calc(-1.5rem - 9px);
+  top: 0.55rem;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 3px solid var(--bs-body-bg);
+}
+
+/* highlighted callout box */
+.exp-callout {
+  background: rgba(var(--accent-rgb), 0.15);
+  border-left: 5px solid var(--accent);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0 1.5rem;
+}
+
+/* years: a fixed-width, right-aligned column at the end of each title line,
+   so dates line up down the page even when titles are long and wrap */
+.exp-card h3,
+.exp-item h3 {
+  display: grid;
+  grid-template-columns: 1fr 8.5rem;
+  column-gap: 1rem;
+  align-items: baseline;
+  position: relative;
+}
+.exp-date {
+  grid-column: 2;
+  grid-row: 1;
+  text-align: right;
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  color: var(--bs-secondary-color);
+}
+/* keep Quarto's hover anchor link from taking a grid cell */
+.exp-card h3 .anchorjs-link,
+.exp-item h3 .anchorjs-link {
+  position: absolute;
+  left: -1.2em;
+}
+/* give timeline entries the same right inset as the cards so dates share one edge */
+.exp-item {
+  padding-right: 1.2rem;
+}
+
+/* phones: put the date on its own line under the title */
+@media (max-width: 576px) {
+  .exp-card h3,
+  .exp-item h3 {
+    grid-template-columns: 1fr;
+  }
+  .exp-date {
+    grid-column: 1;
+    grid-row: 2;
+    text-align: left;
+  }
+}
