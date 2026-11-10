@@ -29,6 +29,7 @@ format:
     theme: [minty, custom.scss] # minty fonts + custom color palette (see custom.scss)
     css: styles.css # custom file to adjust some css options 
     toc: true
+    anchor-sections: false
 
 
 

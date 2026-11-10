@@ -5,7 +5,8 @@ toc-depth: 3
 
 Read on to find more information about cool research in the field of psychology broadly as well as on specific topics related to emotional and social development across the lifecourse and intergenerational relationships. 
 
-## [Stanford Psychology Podcast](https://www.stanfordpsychologypodcast.com/) 
+## [Stanford Psychology Podcast](https://www.stanfordpsychologypodcast.com/) {.exp-heading .accent-1}
+
 ::: {.exp-card .accent-1}
 
 The Stanford Psychology Podcast invites leading psychologists to talk about their work. Conversations will bring you new findings from psychological science and how they can be applied to everyday life.
@@ -14,7 +15,8 @@ Check out [my interview with Dr. David Almeida](https://www.stanfordpsychologypo
 
 :::
 
-## [Intergenerational Friendships: The Hidden Gems](https://datastories.aarp.org/social-leisure/relationships/intergenerational-friendships/) 
+## [Intergenerational Friendships: The Hidden Gems](https://datastories.aarp.org/social-leisure/relationships/intergenerational-friendships/) {.exp-heading .accent-1}
+
 ::: {.exp-card .accent-1}
 
 This article from AARP documents the unique ways that friendships across generations enrich our lives.

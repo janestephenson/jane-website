@@ -47,9 +47,8 @@ B.S. in Biopsychology, Cognition & Neuroscience
 ::: {.exp-stack}
 
 ::: {.exp-card .accent-2}
-[Psych 10]{.exp-badge}
 
-### Introduction to Statistical Methods [Fall 2026]{.exp-date}
+### Introduction to Statistical Methods (Psych 10) [Fall 2026]{.exp-date}
 
 [Teaching Assistant]{.exp-role} · Stanford University
 
@@ -57,17 +56,15 @@ B.S. in Biopsychology, Cognition & Neuroscience
 :::
 
 ::: {.exp-card .accent-2}
-[Psych 70]{.exp-badge}
 
-### Self and Society: Introduction to Social Psychology [Spring 2026]{.exp-date}
+### Self and Society: Introduction to Social Psychology (Psych 70) [Spring 2026]{.exp-date}
 
 [Teaching Assistant]{.exp-role} · Stanford University
 :::
 
 ::: {.exp-card .accent-2}
-[Psych 102]{.exp-badge}
 
-### Longevity [Winter 2026]{.exp-date}
+### Longevity (Psych 102) [Winter 2026]{.exp-date}
 
 [Teaching Assistant]{.exp-role} · Stanford University
 :::

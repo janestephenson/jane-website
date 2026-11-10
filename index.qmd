@@ -23,8 +23,11 @@ I work with Dr. Laura Carstensen in the [Lifespan Development Laboratory](https:
 
 I study emotional and social changes across the life course, with a focus on how people of different ages form and maintain relationships with each other as well as how such relationships support well-being. In particular, my work has examined age differences in the links between social interactions and emotional experience in daily life as well as how grandparents support their grandchildren's well-being. 
 
-Check out my [research page](/research.qmd) for more details on past and current projects.
+Check out my [Research](/research.qmd) page for more details on my past and current projects. 
 
+If academic articles aren't for you, I've also compiled more information on the world of psychological science for a broader audience on my [More Science!](/more-science.qmd) page.
+
+On my [Resources](/code.qmd) page, you can find some of my favorite resources to help with statistics and coding in R. 
 
 
 Email: [janestep\@stanford.edu](mailto:janestep@stanford.edu)

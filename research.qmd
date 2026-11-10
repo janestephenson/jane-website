@@ -5,7 +5,7 @@ toc-depth: 3
 
 Below you can find more information on my past and ongoing research projects. 
 
-## Age Differences in Socioemotional Processes
+## Age Differences in Socioemotional Processes {.exp-heading .accent-1}
 
 <details class="project">
 <summary>Social sharing of emotions and daily affective experiences: Differences by age and gender</summary>
@@ -30,7 +30,7 @@ This project examined how the quality of parents’ relationships with their chi
 </details>
 
 
-## Grandparent-Grandchild Relationships
+## Grandparent-Grandchild Relationships {.exp-heading .accent-1}
 
 <details class="project">
 <summary>Grandparents as alloparents: Unique associations with adolescent well-being</summary>

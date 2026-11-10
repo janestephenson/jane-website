@@ -1,13 +1,13 @@
 ---
-title: Stats Resources
+title: Stats & Coding Resources
 toc-depth: 3
 ---
 
-Here you can find some of my favorite resources for statistics and coding in R. All credit for the work conatined in these materials goes to the original authors.
+Here you can find some of my favorite resources for statistics and coding in R. All credit for the work contained in these materials goes to the original authors.
 
-# R and R Studio
+## R and R Studio {.exp-heading .accent-1}
 
-## Online Textbooks {.exp-heading .accent-1}
+### Online Textbooks {.exp-heading .accent-1}
 
 ::: {.exp-stack}
 
@@ -15,18 +15,28 @@ Here you can find some of my favorite resources for statistics and coding in R. 
 ### [R for Data Science](https://r4ds.hadley.nz/)
 
 I used this book when I was learning R for the first time. It is a great resource for learning how to import, tidy, and visualize data.
-
 :::
 
 ::: {.exp-card .accent-1}
 ### [What They Forgot to Teach You About R](https://rstats.wtf/)
 
 Build good data hygiene habits by following the guidelines in this book.
+:::
 
+::: {.exp-card .accent-1}
+### [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+
+A fantastic overview about the "Grammar of Graphics" that ggplot uses. This book is a great foundational guide for building figures in R.  
+:::
+
+::: {.exp-card .accent-1}
+### [R Graphics Cookbook](https://r-graphics.org/index.html)
+
+Find more advanced and specific recipes to up your visualization game!
 :::
 :::
 
-## My Favorite Packages {.exp-heading .accent-1}
+### My Favorite Packages {.exp-heading .accent-1}
 
 ::: {.exp-stack}
 
@@ -36,9 +46,17 @@ Build good data hygiene habits by following the guidelines in this book.
 You can create publication ready, APA-style tables with this package in just a few lines of code.
 
 :::
+
+::: {.exp-card .accent-2}
+### [easystats](https://easystats.github.io/easystats/)
+
+*easystats* is a collection of packages that help interpret model outputs.
+
 :::
 
-# Statistics
+:::
+
+## Statistics {.exp-heading .accent-1}
 
 ::: {.exp-stack}
 
